@@ -15,6 +15,10 @@ brew link perl --force
 perl -E '$"="\n"; say "@INC"'
 ```
 
+### Linux: Ubuntu 16.04
+
+Perl comes with Ubuntu, so nothing needs to be installed.
+
 ## Running
 
 ```bash

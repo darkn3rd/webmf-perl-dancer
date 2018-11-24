@@ -1,4 +1,5 @@
-#!/usr/bin/env perl -w
+#!/usr/bin/env perl
+use strict;
 use Dancer2;
 
 get '/' => sub {
